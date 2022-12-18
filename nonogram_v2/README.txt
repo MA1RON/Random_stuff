@@ -1,0 +1,1 @@
+it solves Nonograms and plots the resulting times
